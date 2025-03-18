@@ -54,3 +54,13 @@ O **Kanban** é uma metodologia visual que ajuda a gerenciar o fluxo de trabalho
 **Jira** e **Trello** são ferramentas de gerenciamento de projetos que ajudam as equipes a organizar e monitorar o progresso das tarefas.  
 - **Jira** é uma ferramenta robusta, amplamente utilizada por equipes que adotam metodologias ágeis como Scrum ou Kanban. Ela permite a criação de **backlogs** de tarefas, gerenciamento de **sprints**, definição de **histórias de usuário**, e rastreamento de **bugs** e **issues**. Além disso, oferece relatórios detalhados e dashboards que ajudam a equipe a visualizar o progresso do projeto e tomar decisões informadas.  
 - **Trello**, por outro lado, é uma ferramenta mais simples e visual, baseada em **quadros Kanban**. Ele é ideal para equipes menores ou projetos menos complexos, mas também pode ser muito eficaz na organização de tarefas diárias e no acompanhamento do fluxo de trabalho. Com o uso de listas e cartões, o Trello permite que a equipe visualize facilmente as etapas de cada tarefa e o progresso de um projeto.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Trello:
+https://trello.com/invite/b/67d9f8160502d144ac1eab00/ATTI7d6cd61c12e3e9fe7ae2e7d2255086215A783B5C/engenharia-de-software-metodologias-e-ferramentas
+
+
+![image](https://github.com/user-attachments/assets/823152db-28ff-4a32-b6f6-a77877c228a8)
+![image](https://github.com/user-attachments/assets/2aa91e7b-8bd4-4a50-a3b1-fb728bea8679)
+![image](https://github.com/user-attachments/assets/6e20e6da-cd25-4619-b8a2-532800f9726b)
+
